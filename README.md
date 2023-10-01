@@ -14,7 +14,6 @@ Welcome to the E-commerce Web Application repository built entirely with PHP!
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -50,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/e-commerce-web-app.git
+   git clone https://github.com/vipunsanajana/e-commerce-web-app.git
    ```
 
 2. Configure your web server to point to the project's root directory.
@@ -66,20 +65,15 @@ Before you begin, ensure you have met the following requirements:
 ## Usage
 
 - Visit the application's homepage to start exploring and using the features.
-- For detailed usage instructions and customization options, refer to the [documentation](link-to-documentation).
+- For detailed usage instructions and customization options, refer to the w3schools.
 
 ## Contributing
 
-We welcome contributions from the open-source community. To contribute to this project, please review our [contribution guidelines](link-to-contributing-guidelines) and feel free to submit pull requests.
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE](link-to-license-file) file for details.
+We welcome contributions from the open-source community. To contribute to this project, please review our project and feel free to submit pull requests.
 
 ## Contact
 
-If you have any questions, suggestions, or issues to report, please feel free to [contact us](link-to-contact). We appreciate your feedback!
+If you have any questions, suggestions, or issues to report, please feel free to vipunsanjana34@gmail.com. We appreciate your feedback!
 
 ---
 
-In the README template above, make sure to replace placeholders like `[documentation]`, `[link-to-contributing-guidelines]`, `[License Name]`, `[link-to-license-file]`, and `[link-to-contact]` with the actual URLs and information related to your project. Additionally, provide specific installation and configuration instructions if necessary.
