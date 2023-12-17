@@ -20,9 +20,15 @@
                 <div class="form-group">
                     <input type="submit" class="btn-dark" id="login-btn" name="login" value="Login">
                 </div>
-                <div class="form-group">
-                    <a id="register-url" href="register.php" class="btn">Don't have account? Register</a>
+                <div>
+                    <div class="form-group">
+                        <a id="register-url" href="register.php" class="btn">Don't have account?</a>
+                    </div>
+                    <div class="form-group">
+                        <a id="register-url" href="fogot_password.php" class="btn">Fogot Your Password?</a>
+                    </div>
                 </div>
+
             </form>
 
             <!--alert-->
@@ -54,6 +60,9 @@
 
 
         </div>
+
+    <a style="color:orange" id="register-url" href="admin/login.php" class="btn mx-auto">Do You want to admin Login?</a>
+
     </section>
 
     <?php include("layouts/footer.php"); ?>

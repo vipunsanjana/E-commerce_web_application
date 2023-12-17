@@ -19,7 +19,7 @@
                         <h5 class="pb-2">Contact Us</h5>
                         <div>
                             <h6 class="text-uppercase">Address</h6>
-                            <p>Bandaragam</p>
+                            <p>Bandaragama</p>
                         </div>
                         <div>
                             <h6 class="text-uppercase">Phone</h6>
@@ -45,13 +45,14 @@
                         <div class="col-lg-3 col-md-5 col-sm-12 mb-4">
                             <img src="assets/img/one.avif" alt="" class="img-fluid w-25 h-100 m-2">
                         </div>
-                        <div class="col-lg-3 col-md-5 col-sm-12 mb-4 mb-2 text-nowrap">
-                            <p class="mt-3 text-light">eCommerce @ 2023 All Right Reserved</p>
-                        </div>
+                    
                         <div class="col-lg-3 clo-md-5 col-sm-12 mb-4 mt-3 ml-5">
                             <a href="" class="icon img-fluid w-25 h-100"><i class="fab fa-facebook"></i></a>
                             <a href="" class="icon"><i class="fab fa-instagram"></i></a>
                             <a href="" class="icon"><i class="fab fa-twitter"></i></a>
+                        </div>
+                        <div class="col-lg-3 col-md-5 col-sm-12 mb-4 mb-2 text-nowrap">
+                            <p class="mt-3 text-light">eCommerce @ 2023 All Right Reserved</p>
                         </div>
                     </div>
                 </div>

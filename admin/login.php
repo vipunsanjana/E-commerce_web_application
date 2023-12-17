@@ -54,6 +54,7 @@
 
 
         </div>
+        <a style="color:orange" id="register-url" href="../login.php" class="btn mx-auto">Do You want to user Login?</a>
     </section>
 
     <?php include("footer.php"); ?>
