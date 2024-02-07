@@ -78,7 +78,7 @@
                 </div>
     </section>
 
-    <script src="https://www.paypal.com/sdk/js?client-id=AequNWAJOF0y12y7Ra8IXUqhSNajQqDp4CvwqAfUNHwRpVXrs0-NQEhFEH1MDUt7XCZudnjnEf3lhg8W&currency=USD"></script>
+    <script src="https://www.paypal.com/sdk/js?client-id=AbjYFSVFZPL4b3wUn3eA0wIfUSNb0LgsIYJ2vALO34r4dnymIfdw0FJGTm5Di8gy-mfB9tXMwpHJB19-&currency=USD"></script>
 
     <script>
     paypal

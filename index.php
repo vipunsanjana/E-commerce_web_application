@@ -5,7 +5,7 @@
 
     <section id="home">
         <div class="container">
-            <h5>NEW ARRIVALS</h5>
+            <h5 style="color:black">NEW ARRIVALS</h5>
             <h1><span> Best Prices</span>This Season</h1>
             <p>E-shop offers the best products for the most affordable prices.</p>
             <a href="<?php echo "shop.php"?>"><button class="btn btn btn-dark">Shop Now</button></a>
@@ -16,10 +16,10 @@
 
     <section id="brand" class="container">
         <div class="row">
-            <img class="img-fluid col-lg-3 col-md-6 col-sm-12" src="assets/img/brandon.png" alt="">
-            <img class="img-fluid col-lg-3 col-md-6 col-sm-12" src="assets/img/brandtwo.png" alt="">
-            <img class="img-fluid col-lg-3 col-md-6 col-sm-12" src="assets/img/brandthree.png" alt="">
-            <img class="img-fluid col-lg-3 col-md-6 col-sm-12" src="assets/img/brandfour.jpeg" alt="">
+            <img class="img-fluid col-lg-3 col-md-6 col-sm-12" src="assets/img/Brands/Brands-06.png" alt="">
+            <img class="img-fluid col-lg-3 col-md-6 col-sm-12" src="assets/img/Brands/Brands-05.png" alt="">
+            <img class="img-fluid col-lg-3 col-md-6 col-sm-12" src="assets/img/Brands/Brands-03.png" alt="">
+            <img class="img-fluid col-lg-3 col-md-6 col-sm-12" src="assets/img/Brands/Brands-04.png" alt="">
         </div>
     </section>
 

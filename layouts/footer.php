@@ -10,6 +10,8 @@
                         <h5 class="pb-2">Featured</h5>
                         <ul class="text-uppercase">
                             <li><a href=""></a>Game</li>
+                            <li><a href=""></a>PC</li>
+                            <li><a href=""></a>LAPTOP</li>
                             <li><a href=""></a>Office</li>
                             <li><a href=""></a>Education</li>
                         </ul>
@@ -27,23 +29,26 @@
                         </div>
                         <div>
                             <h6 class="text-uppercase">Email</h6>
-                            <p>vipunsanjana34@gmail.com</p>
+                            <p>PCARCADE@gmail.com</p>
                         </div>
+
                     </div>
+                    
                     <div class="footer-one col-lg-3 col-md-6 col-sm-12">
-                        <h5 class="pb-2">Instagram</h5>
+                        <h5 class="pb-2">Brands</h5>
                         <div class="row">
-                            <img src="assets/img/one.avif" alt="" class="img-fluid w-25 h-100 m-2">
-                            <img src="assets/img/one.avif" alt="" class="img-fluid w-25 h-100 m-2">
-                            <img src="assets/img/one.avif" alt="" class="img-fluid w-25 h-100 m-2">
-                            <img src="assets/img/one.avif" alt="" class="img-fluid w-25 h-100 m-2">
+                            <img src="assets/img/Brands/Brands-06.png" alt="" class="img-fluid w-25 h-100 m-2">
+                            <img src="assets/img/Brands/Brands-05.png" alt="" class="img-fluid w-25 h-100 m-2">
+                            <img src="assets/img/Brands/Brands-04.png" alt="" class="img-fluid w-25 h-100 m-2">
+                            <img src="assets/img/Brands/Brands-03.png" alt="" class="img-fluid w-25 h-100 m-2">
+                            <img src="assets/img/Brands/Brands-02.png" alt="" class="img-fluid w-25 h-100 m-2">
                         </div>
                     </div>
                 </div>
                 <div class="copyright mt-5">
                     <div class="row container mx-auto">
                         <div class="col-lg-3 col-md-5 col-sm-12 mb-4">
-                            <img src="assets/img/one.avif" alt="" class="img-fluid w-25 h-100 m-2">
+                            <img src="assets/img/logo.png" alt="" class="img-fluid w-25 h-100 m-2">
                         </div>
                     
                         <div class="col-lg-3 clo-md-5 col-sm-12 mb-4 mt-3 ml-5">
@@ -52,7 +57,7 @@
                             <a href="" class="icon"><i class="fab fa-twitter"></i></a>
                         </div>
                         <div class="col-lg-3 col-md-5 col-sm-12 mb-4 mb-2 text-nowrap">
-                            <p class="mt-3 text-light">eCommerce @ 2023 All Right Reserved</p>
+                            <p class="mt-3 text-light">eCommerce @ 2024 All Right Reserved</p>
                         </div>
                     </div>
                 </div>
