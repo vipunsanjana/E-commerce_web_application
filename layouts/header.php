@@ -49,6 +49,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="contact.php">Contact&nbspUs</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.php">About&nbspUs</a>
+                    </li>
 
                     <li class="nav-item">
                         <a href="cart.php"  style="color: blue;">
