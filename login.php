@@ -27,6 +27,9 @@
                     <div class="form-group">
                         <a id="register-url" href="fogot_password.php" class="btn">Fogot Your Password?</a>
                     </div>
+                    <div class="form-group">
+                    <a style="color:orange" id="register-url" href="admin/login.php" class="btn mx-auto">Do You want to admin Login?</a>
+                    </div>
                 </div>
 
             </form>
@@ -61,7 +64,7 @@
 
         </div>
 
-    <a style="color:orange" id="register-url" href="admin/login.php" class="btn mx-auto">Do You want to admin Login?</a>
+    <!-- <a style="color:orange" id="register-url" href="admin/login.php" class="btn mx-auto">Do You want to admin Login?</a> -->
 
     </section>
 
