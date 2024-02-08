@@ -58,7 +58,7 @@ if(isset($_GET['selector']) && isset($_GET['validator'])){
 
             <div>
                     <div class="form-group">
-                        <a id="register-url" href="login.php" class="btn">Already member a login?</a>
+                        <a style="color:orange" id="register-url" href="login.php" class="btn">Already member a login?</a>
                     </div>
                 </div>
         </div>
