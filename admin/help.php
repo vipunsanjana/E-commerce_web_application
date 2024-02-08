@@ -33,7 +33,7 @@ if(!isset($_SESSION['admin_email'])){
 
                         <div class="form-group mt-2">
                             <label>Developer Name</label><br>
-                            <p class="ml-5 t" style="color: red;">Vipun Sanjana</p>
+                            <p class="ml-5 t" style="color: red;">Software Engineering - UOK</p>
                         </div>
 
                         <div class="form-group mt-2">
@@ -43,7 +43,7 @@ if(!isset($_SESSION['admin_email'])){
 
                         <div class="form-group mt-2">
                             <label>E-mail</label><br>
-                            <p class="ml-5" style="color: red;">vipunsanjana34@gamil.com</p>
+                            <p class="ml-5" style="color: red;">pcarcade@gamil.com</p>
                         </div>    
 
                         <div class="form-group mt-2">
